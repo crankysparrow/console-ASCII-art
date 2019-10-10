@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "get-pixels": "^3.3.2",
+    "jimp": "^0.8.4",
     "ndarray": "^1.0.18"
   }
 }
